@@ -9,7 +9,7 @@ function two() {
 
 one(two);
 //a callback is a function calling another function
-//updates
+
 
 
 

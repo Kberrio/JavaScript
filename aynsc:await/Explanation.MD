@@ -11,3 +11,7 @@ You pick up one rock, then set it to where you want your line of rocks to be. Bu
 This explains what something synchronous is. 
 
 ---
+
+
+VERY IMPORTANT CONCEPTS!
+
